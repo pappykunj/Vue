@@ -1,0 +1,16 @@
+.bold{
+    font-family: Roboto-Bold;
+}
+.light{
+    font-family: Robo-LightItalic;
+}
+.col{
+    font-size: 3em;
+    color: aliceblue;
+}
+.thin{
+    font-family: Robo-thin;
+}
+.small{
+    font-size: smaller;
+}

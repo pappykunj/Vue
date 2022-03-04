@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Roboto-Bold;
+    src: url("E:\sample\project1\src\assets\fontss\Roboto-Black.ttf");
+}
+@font-face {
+    font-family: Robo-Italic;
+    src: url("E:\sample\project1\src\assets\fontss\Roboto-Italic.ttf");
+}
+@font-face {
+    font-family: Robo-LightItalic;
+    src: url("E:\sample\project1\src\assets\fontss\Roboto-LightItalic.ttf");
+}
+@font-face {
+    font-family: Robo-thin;
+    src: url("E:\sample\project1\src\assets\fontss\Roboto-Thin.ttf");
+}
